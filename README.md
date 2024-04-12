@@ -71,3 +71,11 @@ of the hex-insert and try to pry it out. This worked for me so far.
 This project uses the [OpenSCAD HWS Attachments and Connectors](https://github.com/neclimdul/hws_openscad_attachments_and_connectors) Copyright (c) 2023 James Gilliland.
 
 It also uses the concepts and designs of [Honeycomb storage wall](https://www.printables.com/model/152592-honeycomb-storage-wall).
+
+#### ThingiVerse
+
+<https://www.thingiverse.com/thing:6576683>
+
+#### GitHub
+
+<https://github.com/nomike/parametric_offset_keyhole_hook_for_hsw>
