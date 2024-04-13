@@ -78,4 +78,4 @@ It also uses the concepts and designs of [Honeycomb storage wall](https://www.pr
 
 #### GitHub
 
-<https://github.com/nomike/parametric_offset_keyhole_hook_for_hsw>
+<https://github.com/nomike/parametric-offset-keyhole-hook-for-hsw>
