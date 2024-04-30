@@ -25,6 +25,7 @@ However, if your keyhole doesn't look standard, you can do further adjustements:
 
 Here are some illustrations of those parameters:
 
+```plaintext
      |--|    keyhole_small_diameter
   
       xx   
@@ -49,6 +50,7 @@ Here are some illustrations of those parameters:
     │ └───┘            └───┘ │
     │                        │
     │                        │
+```
 
 #### Printing
 
